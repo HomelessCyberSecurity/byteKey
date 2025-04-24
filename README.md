@@ -79,10 +79,6 @@ Using a virtual machine provides a dedicated and isolated environment for experi
     ```
 4.  **Explore!** Follow the prompts and experiment with the encryption, decryption, and checksum functionalities of byteKey.py.
 
-## Contributing
-
-[Optional: Add information about how others can contribute to your project, such as bug reports, feature requests, or pull requests.]
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
