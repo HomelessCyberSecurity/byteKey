@@ -82,7 +82,3 @@ Using a virtual machine provides a dedicated and isolated environment for experi
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Enjoy exploring the fascinating world of cryptography and data integrity with byteKey.py!
